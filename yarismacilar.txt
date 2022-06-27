@@ -1,0 +1,5 @@
+5 cakal_carlos CAKAL
+15 fil_bobo MEKANIKFIL
+3 bot_salo SALYANBOT
+25 kus_minik DEVEKUSU
+44 bot_speedy SALYANBOT

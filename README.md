@@ -7,4 +7,4 @@ Herhangi bir yarışmacı bitiş çizgisini geçtiği anda yarışma sona ermiş
 Class Diagramı ise şu şekildedir:
 <br><img width="1214" alt="Ekran Resmi 2022-06-27 15 43 38" src="https://user-images.githubusercontent.com/78086858/175944572-2efee962-c499-4ff1-bf97-12cc4b24fc01.png">
 <br><br>
-Test sınıfında kullanmak için "yarismacilar.txt" dosyası, projenizin bin/.net<version> klasöründe olmalıdır.
+Test sınıfında kullanmak için "yarismacilar.txt" dosyası, projenizin bin/.net<version> klasöründe olmalıdır. 
